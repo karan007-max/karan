@@ -1,0 +1,62 @@
+[
+  {
+      "id": 1,
+      "name": "MSI TITAN GT 77",
+      "category": "laptop",
+      "brand": "MSI",
+      "price": "2,32,990",
+      "stock": "19",
+      "description": "laptop with a 17.30-inch displaythat has a resolution of 3840x2160 pixels. It is poweredby a Core i9 processor. Graphics are powered by Nvidia GeForce RTX 3080 Ti.",
+      "image": "../image/MSI-GT77-removebg-preview.png"
+  },
+  {
+      "id": 2,
+      "name": "MSI Meg X670e Godlike",
+      "category": "Motherboard",
+      "brand": "MSI",
+      "price": "1,58,529",
+      "stock": "10",
+      "description": "MSI MEG X670E GODLIKE Gaming Motherboard (AMD AM5, DDR5, PCIe 5.0, SATA 6Gb/s, M.2, USB 3.2 Gen 2, Wi-Fi 6E, HDMI/DP, Dual LAN, SLI, EATX",
+      "image": "../image/MSI_Meg_X670e_Godlike"
+  },
+  {
+          "id": 3,
+          "name": "ASUS Ge Force RTX 4090 OC",
+          "category": "Graphic Card",
+          "brand": "ASUS",
+          "price": "2,59,699",
+          "stock": "20",
+          "description": "ASUS Ge Force RTX 4090 OC Edition Gaming PCI_E_X16 Graphics Card (PCIE 4.0, 24 GB GDDR6X, HDMI 2.1A, Display Port 1.4A",
+          "image": "..public/image/ASUS_4090-removebg-preview - Copy"
+  },
+  {
+      "id": 4,
+      "name": "Iphone 16 pro",
+      "category": "Phone",
+      "brand": "Iphone",
+      "price": "1,12,900",
+      "stock": "43",
+      "description": "iPhone 16 Pro 128 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium",
+      "image": "../image/Apple-iPhone-16-Pro-removebg-preview - Copy"
+  },
+  {
+      "id": 5,
+      "name": "HyperX Cloud Alpha",
+      "category": "Headset",
+      "brand": "HyperX",
+      "price": "29,897",
+      "stock": "4",
+      "description": "HyperX Cloud Alpha Gaming Headset",
+      "image": "../image/HyperX_Cloud_Alpha_Gaming_Headset-removebg-preview - Copy (2)"
+  },
+  {
+      "id": 6,
+      "name": "VR Headset",
+      "category": "VR",
+      "brand": "US GEAR",
+      "price": "12,094",
+      "stock": "33",
+      "description": "USA Gear VR Headset Case - Virtual Reality Backpack with Customizable Interior Compartments Compatible with VR Gaming Headset, Controllers, and More Virtual Reality Gaming Accessories",
+      "image": "../image/USA Gear VR Headset Case"
+  }
+]
